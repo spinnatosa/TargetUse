@@ -76,5 +76,5 @@ $space = 10px;
 ```
 I used "<b>:target</b>" pseudo-class to do it.
 <br/>
-The :target pseudo-class is supported by all Browsers.<br/>
-You can see an demo <a href="https://jsfiddle.net/spinnatosa/bsgj4x07/">here</a>.
+The :target pseudo-class is supported by all browsers.<br/>
+You can see a demo <a href="https://jsfiddle.net/spinnatosa/bsgj4x07/">here</a>.

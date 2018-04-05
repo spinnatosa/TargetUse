@@ -34,7 +34,7 @@ So I wanna show how TargetUse works.
 ### CSS/SCSS
 
 ```css
-$space = 10px;
+$space : 10px;
 
 .targetUse {
   padding: $space*3;
